@@ -17,3 +17,9 @@
 [submodule "gpAux/extensions/googletest"]
 	path = gpAux/extensions/googletest
 	url = https://github.com/google/googletest.git
+[submodule "gp-xerces"]
+	path = gp-xerces
+	url = https://github.com/arenadata/gp-xerces.git
+[submodule "gporca"]
+	path = gporca
+	url = https://github.com/arenadata/gporca.git
